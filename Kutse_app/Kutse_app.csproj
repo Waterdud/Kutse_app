@@ -147,7 +147,11 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\christmas.png" />
+    <Content Include="Images\new_year.png" />
     <Content Include="Images\smile.png" />
+    <Content Include="Images\spring.png" />
+    <Content Include="Images\valentine.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -179,6 +183,7 @@
     <Content Include="Views\Home\Ankeet.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\Thanks.cshtml" />
+    <Content Include="Views\Home\AnswerConfirmation.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
